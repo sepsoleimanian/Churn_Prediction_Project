@@ -1,4 +1,4 @@
-# 🛒 Churn Prediction Project | Pin-Dees (Zarrino)
+# 🛒 Churn Prediction Project
 
 This project aims to predict the probability of a user making their **fifth purchase** based on the behavior observed in their first four transactions. It is a binary classification problem focused on identifying potential churned retailers.
 
